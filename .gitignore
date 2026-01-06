@@ -1,0 +1,14 @@
+# Robot Framework output
+output.xml
+report.html
+log.html
+
+# Screenshots
+*.png
+
+# Mac / temp files
+.DS_Store
+~$*.docx
+
+# Starter files
+StarterFiles/
